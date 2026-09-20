@@ -3,6 +3,12 @@
 > **Status:** early concept / portfolio project  
 > **Purpose:** explore how robotics, foodservice operations, brand experience, and localized product strategy could become a premium autonomous hard-scoop ice cream platform.
 
+![AI-generated concept visualization of a retro robot-dipped ice-cream kiosk in an imagined AMC cinema setting](assets/robot-dipped-amc.png)
+
+*AI-generated concept visualization · Independent concept study · Not a built prototype or actual deployment.*
+
+This hero image explores product direction and customer experience, not a finalized engineering design. Venue and brand references are hypothetical; no affiliation, partnership, endorsement or authorization is implied.
+
 ## Concept
 
 **Robot-Dipped Flavor Lab** is an independent 0→1 product innovation case study built around a simple idea:
@@ -51,7 +57,33 @@ A first deployment would target high-footfall, experience-friendly locations suc
 - entertainment venues,
 - and flagship retail environments.
 
-Early concepts have used Chicago as a test market because it offers strong neighborhood identity, sports culture, tourism traffic, and several distinct deployment environments.
+Early concept work has used Chicago as a hypothetical scenario because it offers strong neighborhood identity, sports culture, tourism traffic, and several distinct deployment environments. This does not indicate completed market testing, customer research, an existing pilot or venue permission.
+
+## Deployment Context Explorations
+
+These visuals explore how the same product thesis might translate into different high-footfall environments. They are separate early experience and product-direction explorations, not finalized deployment or engineering designs. All venue and brand references are hypothetical; no affiliation, partnership, endorsement or authorization is implied.
+
+### Cinema / entertainment venue
+
+The AMC concept shown as the hero above explores an integrated product, visible robotic service and a retro-futurist cinema experience. It is not an actual AMC installation.
+
+### University campus
+
+![AI-generated campus-context exploration of a robotic ice-cream kiosk in an imagined IIT MTCC setting](assets/robot-dipped-iit-mtcc.png)
+
+*AI-generated hypothetical IIT / MTCC campus concept · Not a built prototype, actual deployment or verified architectural depiction.*
+
+This early campus-context exploration considers the product's presence in a university setting. The cinema-specific phrase “Scoops Make Movies Better” remains in the original image as an unresolved visual placeholder, not an approved campus message.
+
+### Tourist destination
+
+![AI-generated tourist-destination exploration of a robotic ice-cream kiosk in an imagined Navy Pier setting](assets/robot-dipped-navy-pier.png)
+
+*AI-generated hypothetical Navy Pier concept · Not a built prototype, actual deployment or verified site layout.*
+
+This early high-footfall tourist-destination exploration considers a more prominent ice-cream-brand treatment in a waterfront visitor setting. The branding is illustrative, not evidence of an actual collaboration.
+
+**Visual-development boundary:** Enclosure designs, robot forms, flavor layouts, visual branding and deployment contexts differ across these images; they do not represent one finalized physical design. The six visible flavor compartments in the cinema/campus concepts are not a validated engineering capacity; the **3 + 3 + 1 + 2** assortment remains a nine-flavor product hypothesis. All three original PNGs are preserved without cropping, retouching, recompression or regeneration.
 
 ## Product principles — draft
 
